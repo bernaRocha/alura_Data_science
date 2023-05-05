@@ -1,7 +1,7 @@
 # Alura: Data science
 Repositório para cursos de data science da Alura
 
-Curso 00 - Séries temporais
+Curso 00 - Séries temporais <br>
  -- Aprendizado: 
  
  - Alteração de variável para tipo data <br>
